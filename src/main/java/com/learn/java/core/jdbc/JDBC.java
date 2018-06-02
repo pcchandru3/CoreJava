@@ -27,7 +27,14 @@ public class JDBC {
 			conn = DriverManager.getConnection(dbURL, sUserName, sPassword);
 			
 			
+			//Step3 : Prepared Statement
 			
+			//Step4 : Execute Query
+			
+			//Step5 : Parse ResultSet
+			
+			
+			//Step6 : Close Connection
 			
 			
 			
